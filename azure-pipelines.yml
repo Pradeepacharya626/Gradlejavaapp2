@@ -10,4 +10,4 @@ steps:
 - script: gradle build
   displayName: 'Building the gradle application'
 - script: gradle run
-  displayName: 'Running gradle application'
+  displayName: 'Running gradle application'
